@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEF841CA)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/dist/github-snake.svg" />
-  <img alt="github-snake" src="/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
 </picture>
