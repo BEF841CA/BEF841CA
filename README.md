@@ -8,4 +8,9 @@
 ✅ kubernetes  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEF841CA)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/assets/github-contribution-grid-snake.svg" /></div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
