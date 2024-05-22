@@ -5,7 +5,6 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
@@ -13,11 +12,11 @@ jobs:
 
     permissions:
       actions: write
-      contents: read
+      contents: write
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
         with:
@@ -44,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main
           message: 'Generate Contribution Snake'
