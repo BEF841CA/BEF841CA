@@ -1,30 +1,50 @@
-# Hi there 👋 
+<!--
+ ███████████  ██████████ ███████████  ████████   █████ █████  ████    █████████    █████████         ███████    ██████   █████ █████       █████ ██████   █████ ██████████
+░░███░░░░░███░░███░░░░░█░░███░░░░░░█ ███░░░░███ ░░███ ░░███  ░░███   ███░░░░░███  ███░░░░░███      ███░░░░░███ ░░██████ ░░███ ░░███       ░░███ ░░██████ ░░███ ░░███░░░░░█
+ ░███    ░███ ░███  █ ░  ░███   █ ░ ░███   ░███  ░███  ░███ █ ░███  ███     ░░░  ░███    ░███     ███     ░░███ ░███░███ ░███  ░███        ░███  ░███░███ ░███  ░███  █ ░ 
+ ░██████████  ░██████    ░███████   ░░████████   ░███████████ ░███ ░███          ░███████████    ░███      ░███ ░███░░███░███  ░███        ░███  ░███░░███░███  ░██████   
+ ░███░░░░░███ ░███░░█    ░███░░░█    ███░░░░███  ░░░░░░░███░█ ░███ ░███          ░███░░░░░███    ░███      ░███ ░███ ░░██████  ░███        ░███  ░███ ░░██████  ░███░░█   
+ ░███    ░███ ░███ ░   █ ░███  ░    ░███   ░███        ░███░  ░███ ░░███     ███ ░███    ░███    ░░███     ███  ░███  ░░█████  ░███      █ ░███  ░███  ░░█████  ░███ ░   █
+ ███████████  ██████████ █████      ░░████████         █████  █████ ░░█████████  █████   █████    ░░░███████░   █████  ░░█████ ███████████ █████ █████  ░░█████ ██████████
+░░░░░░░░░░░  ░░░░░░░░░░ ░░░░░        ░░░░░░░░         ░░░░░  ░░░░░   ░░░░░░░░░  ░░░░░   ░░░░░       ░░░░░░░    ░░░░░    ░░░░░ ░░░░░░░░░░░ ░░░░░ ░░░░░    ░░░░░ ░░░░░░░░░░ 
+                                                                                                                                                                          
+-->
 
-## 🎯 关于我 | About Me 
-小白程序员一枚 人菜且头秃（👦 -> 👴）
+<div align="center">
+   <img alt="github-snake" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+;I+am+BEF841CA;Welcome+to+my+digital+universe+%F0%9F%8C%8C" />
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/BEF841CA)
-![GitHub User's stars](https://img.shields.io/github/stars/BEF841CA)
+```yaml
+name: BEF841CA
+website: https://bef841ca.cn
+email: li.guzhilan@gmail.com
 
-## 💻 技术栈 | Tech Stack
-![JAVA](https://img.shields.io/badge/JAVA-_⭐⭐⭐-5BA745)
-![VUE](https://img.shields.io/badge/VUE-_⭐⭐⭐-5BA745)
-![Docker](https://img.shields.io/badge/Docker-_⭐⭐⭐⭐-5BA745)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-_⭐⭐-5BA745)
-![Jenkins](https://img.shields.io/badge/Kubernetes-_⭐⭐⭐⭐-5BA745)
-![Next.js](https://img.shields.io/badge/Next.js-_⭐-5BA745)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-_⭐-5BA745)
+tech:
+   - Java
+   - Node.js
+   - Vue / Next.js
+   - Docker
+   - Kubernetes
+   - Tailwind CSS
+```
 
-## 📊 GitHub 统计 | Statistics
+---
+
+### 统计
+
 <picture>
-   <source srcset="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-   <source srcset="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-   <img src="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true" />
-</picture> 
-
-## 📈 贡献统计 | Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
+   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&rank_icon=github&theme=dark"  />
+   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&rank_icon=github"  />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&rank_icon=github" />
 </picture>
+<picture>
+   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BEF841CA&layout=compact&theme=dark"  />
+   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BEF841CA&layout=compact"  />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEF841CA&layout=compact" />
+</picture>
+<picture>
+  <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake-dark.svg" />
+  <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
+  <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
+</picture>
+
