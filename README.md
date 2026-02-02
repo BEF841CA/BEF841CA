@@ -33,18 +33,17 @@ tech:
 ### 统计
 
 <picture>
-   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&rank_icon=github&theme=dark"  />
-   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&rank_icon=github"  />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BEF841CA&show_icons=true&rank_icon=github" />
+   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/to-langs-dark.svg" />
+   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/to-langs.svg" />
+   <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/to-langs.svg" />
 </picture>
 <picture>
-   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BEF841CA&layout=compact&theme=dark"  />
-   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BEF841CA&layout=compact"  />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEF841CA&layout=compact" />
+   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats-dark.svg" />
+   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats.svg" />
+   <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats.svg" />
 </picture>
 <picture>
-  <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake-dark.svg" />
-  <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
-  <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
+   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake-dark.svg" />
+   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
+   <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
 </picture>
-
