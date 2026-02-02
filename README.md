@@ -33,17 +33,18 @@ tech:
 ### 统计
 
 <picture>
-   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/to-langs-dark.svg" />
-   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/to-langs.svg" />
-   <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/to-langs.svg" />
+   <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/top-langs-dark.svg" />
+   <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/top-langs.svg" />
+   <img height="160em" alt="top-langs" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/top-langs.svg" />
 </picture>
 <picture>
    <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats-dark.svg" />
    <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats.svg" />
-   <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats.svg" />
+   <img height="160em" alt="stats" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/stats.svg" />
 </picture>
 <picture>
    <source height="160em" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake-dark.svg" />
    <source height="160em" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
    <img height="160em" alt="github-snake" src="https://cdn.jsdelivr.net/gh/BEF841CA/BEF841CA/dist/github-snake.svg" />
 </picture>
+
