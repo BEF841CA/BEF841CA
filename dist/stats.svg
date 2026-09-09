@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">BEF841CA&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 3899, Total PRs: 1, Total Issues: 3, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 3908, Total PRs: 1, Total Issues: 3, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 194.43710781667414;
+        stroke-dashoffset: 194.43708697438166;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
